@@ -136,6 +136,6 @@ Ottawa, Ontario, Canada
 
 Website: https://iterant.ca
 
-Email: shomi74@gmail.com
+Email:  iterantsystems@gmail.com
 
 GitHub: https://github.com/IterantSystems
