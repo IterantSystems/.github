@@ -73,18 +73,18 @@ Based in Ottawa, Canada, Iterant Systems focuses on precision analog electronics
 
 # Featured Projects
 
-## TUCAN Precision Current Systems
+## Ultra-Stable Precision Current Platforms
 
-Ultra-stable current supply platforms developed for neutron EDM experiments, including:
+Ultra-stable precision current platforms engineered for low-noise scientific instrumentation, precision magnetic systems, and advanced experimental environments.
 
 - 64-channel shim current supply systems
 - Sub-ppm ultra-stable B0 coil current sources
 - High-current degaussing electronics
 - Precision DAC and instrumentation amplifier architectures
 
-## Hyper-K / IWCD Imaging Electronics
+## Embedded Imaging & Camera-Control Electronics
 
-Embedded detector imaging and camera-control systems featuring:
+Advanced embedded imaging and camera-control electronics platforms integrating CM5 systems, Teensy controllers, PoE infrastructure, environmental sensing, and remote instrumentation capabilities.
 
 - CM5-based imaging platforms
 - Teensy supervisory controllers
@@ -93,9 +93,9 @@ Embedded detector imaging and camera-control systems featuring:
 - Remote camera-control electronics
 - Detector imaging infrastructure
 
-## High-Speed Detector Electronics
+## High-Speed Interface Electronics
 
-Custom detector readout and interconnect systems involving:
+Custom high-speed interface and readout electronics involving high-density interconnect systems, differential signaling architectures, and mixed-signal integration.
 
 - lpGBT-compatible high-speed routing
 - Multi-layer detector interface boards
@@ -104,9 +104,9 @@ Custom detector readout and interconnect systems involving:
 - Differential signaling architectures
 - High-speed digital interconnect design
 
-## Leakage Current Monitoring Systems
+## High-Voltage Leakage Current Monitoring
 
-High-voltage instrumentation electronics for picoamp-level leakage current monitoring in precision physics experiments.
+High-voltage instrumentation electronics designed for picoamp-level leakage-current monitoring in low-noise, precision measurement environments.
 
 ---
 
