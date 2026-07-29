@@ -2,9 +2,10 @@
 
 **Hardware, Evolved.**
 
-Iterant Systems is an Ottawa-based engineering practice focused on precision
-electronics, embedded systems, custom PCB development, prototype realization,
-hardware integration, and validation.
+Iterant Systems Inc. is a federally incorporated Canadian engineering company
+based in Ottawa, Ontario. The company focuses on precision electronics,
+embedded systems, custom PCB development, prototype realization, hardware
+integration, and validation.
 
 We support research groups, startups, and advanced product teams through
 complete hardware-development programs, individual subsystems, or specific
